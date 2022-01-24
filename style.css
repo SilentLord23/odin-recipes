@@ -1,0 +1,17 @@
+#title {
+    text-align: center;
+    color: turquoise;
+    background-color: grey;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.list {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    background-color: lightcyan;
+    color: black;
+    font-size: 30px;
+    list-style-type: lower-greek;
+}
