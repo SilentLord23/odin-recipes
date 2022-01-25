@@ -7,11 +7,20 @@
     font-weight: 100;
 }
 
-.list {
+li {
     font-family: "Times New Roman", sans-serif;
     text-align: center;
     background-color: lightcyan;
     color: black;
     font-size: 30px;
     list-style-type: lower-greek;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+p {
+    color: red;
 }
